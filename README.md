@@ -1,0 +1,2 @@
+# hunthood-legal
+CGU
